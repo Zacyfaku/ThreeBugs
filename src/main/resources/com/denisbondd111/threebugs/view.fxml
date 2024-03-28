@@ -21,7 +21,7 @@
                   <Font size="25.0" />
                </font>
             </Label>
-            <TextField id="legLengthTextField" fx:id="legLengthTextField" prefHeight="35.0" prefWidth="210.0" promptText="Input the length of leg..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
+            <TextField id="legLengthTextField" fx:id="legLengthTextField" prefHeight="35.0" prefWidth="210.0" promptText="Enter the length of leg (px)..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
                <font>
                   <Font size="14.0" />
                </font>
@@ -29,7 +29,7 @@
                   <Insets bottom="5.0" top="5.0" />
                </VBox.margin>
             </TextField>
-            <TextField id="speedFirstTextField" fx:id="speedFirstTextField" prefHeight="35.0" prefWidth="210.0" promptText="Input speed 1 bug..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
+            <TextField id="speedFirstTextField" fx:id="speedFirstTextField" prefHeight="35.0" prefWidth="210.0" promptText="Enter speed 1 bug (px/sec)..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
                <font>
                   <Font size="14.0" />
                </font>
@@ -37,7 +37,7 @@
                   <Insets bottom="5.0" top="5.0" />
                </VBox.margin>
             </TextField>
-            <TextField id="speedSecondTextField" fx:id="speedSecondTextField" prefHeight="35.0" prefWidth="210.0" promptText="Input speed 2 bug..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
+            <TextField id="speedSecondTextField" fx:id="speedSecondTextField" prefHeight="35.0" prefWidth="210.0" promptText="Enter speed 2 bug (px/sec)..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
                <font>
                   <Font size="14.0" />
                </font>
@@ -45,7 +45,7 @@
                   <Insets bottom="5.0" top="5.0" />
                </VBox.margin>
             </TextField>
-            <TextField id="speedThirdTextField" fx:id="speedThirdTextField" prefHeight="35.0" prefWidth="210.0" promptText="Input speed 3 bug..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
+            <TextField id="speedThirdTextField" fx:id="speedThirdTextField" prefHeight="35.0" prefWidth="210.0" promptText="Enter speed 3 bug (px/sec)..." style="-fx-border-color: #000; -fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: #393b40; -fx-text-fill: #fff;">
                <font>
                   <Font size="14.0" />
                </font>
